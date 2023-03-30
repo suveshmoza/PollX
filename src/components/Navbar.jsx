@@ -6,8 +6,7 @@ const Navbar = () => {
 			<div class="container">
 				<a class="navbar-brand">PollX</a>
 				<div class="d-flex">
-					<button className="btn btn-outline-success m-1">Create Poll</button>
-					<button className="btn btn-primary m-1">Login</button>
+					<button className="btn btn-outline-success mx-1">Create Poll</button>
 				</div>
 			</div>
 		</nav>
